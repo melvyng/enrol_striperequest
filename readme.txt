@@ -1,4 +1,3 @@
-# enrol_striperequest
 Stripe Payment: 
 
 Introducing the newest offering from Team Dualcube: Stripe Payment!
